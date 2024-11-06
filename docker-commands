@@ -1,0 +1,1 @@
+docker run --tty --network default confluentinc/cp-kafkacat kafkacat -b kafka:29092 -L
